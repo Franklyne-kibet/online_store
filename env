@@ -1,0 +1,5 @@
+POSTGRES_USER=customer_ms
+POSTGRES_PASSWORD=password
+POSTGRES_DB=customer_db
+POSTGRES_HOST=customer
+POSTGRES_PORT=5432
