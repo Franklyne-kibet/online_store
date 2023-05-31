@@ -1,6 +1,6 @@
 import os
 
-from datagenerator.utils.db import DBConnection
+from utils.db import DBConnection
 
 def get_database_creds() -> DBConnection:
     return DBConnection(
